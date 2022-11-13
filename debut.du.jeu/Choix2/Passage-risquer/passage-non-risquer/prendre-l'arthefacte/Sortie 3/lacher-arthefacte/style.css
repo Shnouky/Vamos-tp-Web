@@ -17,10 +17,10 @@ font-family: 'Play';
 color:rgb(255, 255, 255);
 text-align: center;
 
-background-image: url(https://us.123rf.com/450wm/dedmityay/dedmityay1803/dedmityay180300119/97205790-myst%C3%A9rieuse-lumi%C3%A8re-bleue-au-bout-d-un-ancien-tunnel-industriel-rond-ou-d-un-couloir-de-mine-souterr.jpg?ver=6),  url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXkMdWO2TTIlcb7c50JllG-mMfKaJ1zQEwezIaJA6QHtZuFgnwj-FmaA7K2fZxeTnp9U&usqp=CAU), url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4c4f2491-e7ef-41b6-b19e-a7a9ae8a5de9/dewubga-538796f1-ef2d-4319-b59d-ef4f519d63ed.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRjNGYyNDkxLWU3ZWYtNDFiNi1iMTllLWE3YTlhZThhNWRlOVwvZGV3dWJnYS01Mzg3OTZmMS1lZjJkLTQzMTktYjU5ZC1lZjRmNTE5ZDYzZWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yxWCtHsqPg5MYv-EOrl5W8VhhmvX6bn4x7Ze6rvm5Vc);
-background-size: 750px 400px ,750px 400px, 1950px 1650px;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXkMdWO2TTIlcb7c50JllG-mMfKaJ1zQEwezIaJA6QHtZuFgnwj-FmaA7K2fZxeTnp9U&usqp=CAU), url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4c4f2491-e7ef-41b6-b19e-a7a9ae8a5de9/dewubga-538796f1-ef2d-4319-b59d-ef4f519d63ed.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRjNGYyNDkxLWU3ZWYtNDFiNi1iMTllLWE3YTlhZThhNWRlOVwvZGV3dWJnYS01Mzg3OTZmMS1lZjJkLTQzMTktYjU5ZC1lZjRmNTE5ZDYzZWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yxWCtHsqPg5MYv-EOrl5W8VhhmvX6bn4x7Ze6rvm5Vc);
+background-size: 750px 400px ,1950px 1650px;
 background-repeat: no-repeat;
-background-position:right 430px, left 430px, center;
+background-position: center 200px, center;
 }
 
 

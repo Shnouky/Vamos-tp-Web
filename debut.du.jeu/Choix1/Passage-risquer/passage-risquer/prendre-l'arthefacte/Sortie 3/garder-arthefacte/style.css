@@ -20,9 +20,9 @@ table {
         color:rgb(0, 0, 0);
         background-color: rgb(59, 193, 133);
         background-repeat: no-repeat;
-        background-image: url(https://cdnb.artstation.com/p/assets/images/images/002/094/257/large/james-lillich-templeruins-07.jpg?1457141204);
-            background-size: cover;
-            background-position: center ;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLXkMdWO2TTIlcb7c50JllG-mMfKaJ1zQEwezIaJA6QHtZuFgnwj-FmaA7K2fZxeTnp9U&usqp=CAU), url(https://cdnb.artstation.com/p/assets/images/images/002/094/257/large/james-lillich-templeruins-07.jpg?1457141204);
+            background-size: 750px 400px, cover;
+                   background-position: center ;
             background-attachment:fixed;
             text-align: center
        
